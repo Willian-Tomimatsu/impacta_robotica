@@ -1,5 +1,14 @@
 # Projeto - Robótica
-Projeto da Faculdade Impacta, disciplina de Robótica lecionada pelo professor Gustavo Figueiredo, utilizando o kit de robótica Lego Mindstorms EV3.
+Projeto da Faculdade Impacta, disciplina de Robótica lecionada pelo professor Gustavo Molina Figueiredo, utilizando o kit de robótica Lego Mindstorms EV3.
+
+### Integrantes
+Adriano Paula de Araujo<br>
+Lucas Eduardo Salles de Souza <br>
+Raphael Alario<br>
+Tiago Pinheiro Bezerra<br>
+Victor Santini de Brito<br>
+Welvis Souza de Assis<br>
+Willian Lyu Tomimatsu<br>
 
 ## Catavento
 

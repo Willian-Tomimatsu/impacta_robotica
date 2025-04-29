@@ -18,7 +18,7 @@ Desenvolvimento de um catavento que ativa e desativa automaticamente, além de a
 
 O catavento movimenta suas hélices em movimento rotacional, pela força de um motor que altera sua intensidade de acordo com um sensor ultrassônico, que detecta a distância de algum objeto até uma distância máxima de 30 cm. A cada 1 cm de distância o motor acelera em 10 graus por segundo.
 
-![gif do protótipo em funcionamento](/assets/Funcionamento_2.1.gif)
+https://github.com/user-attachments/assets/1274a455-a80a-4476-8ac5-c562d06b8332
 
 ## Desenvolvimento
 

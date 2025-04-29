@@ -21,7 +21,3 @@ O catavento movimenta suas hélices em movimento rotacional, pela força de um m
 ## Desenvolvimento
 
 Código escrito em Python utilizando Micropython EV3 e a biblioteca do EV3.
-
-## Contribuidores
-
-Adriano Paula de Araujo, Lucas Eduardo Salles de Souza, Raphael Alario, Tiago Pinheiro Bezerra, Victor Santini de Brito, Welvis Souza de Assis, Willian Lyu Tomimatsu.

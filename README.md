@@ -18,6 +18,8 @@ Desenvolvimento de um catavento que ativa e desativa automaticamente, além de a
 
 O catavento movimenta suas hélices em movimento rotacional, pela força de um motor que altera sua intensidade de acordo com um sensor ultrassônico, que detecta a distância de algum objeto até uma distância máxima de 30 cm. A cada 1 cm de distância o motor acelera em 10 graus por segundo.
 
+![gif do protótipo em funcionamento](/assets/Funcionamento_2.1.gif)
+
 ## Desenvolvimento
 
 Código escrito em Python utilizando Micropython EV3 e a biblioteca do EV3.

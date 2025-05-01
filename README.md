@@ -1,4 +1,4 @@
-![Sem título](https://github.com/user-attachments/assets/bbe2f6eb-4e33-408f-bb4a-79346ef3d153)# Projeto - Robótica
+# Projeto - Robótica
 Projeto da Faculdade Impacta, disciplina de Robótica lecionada pelo professor Gustavo Molina Figueiredo, utilizando o kit de robótica Lego Mindstorms EV3.
 
 ### Integrantes

@@ -14,7 +14,7 @@ Willian Lyu Tomimatsu - 2200019<br>
 
 Desenvolvimento de um catavento que ativa e desativa automaticamente, além de aumentar sua velocidade baseado na distância entre o usuário/objeto e um sensor ultrassônico.
 
-<img src="assets/Modelo_1.jpg" width=40%>
+<img src="assets/foto_prototipo.jpg" width=40%>
 
 ## Funcionamento
 
@@ -27,3 +27,5 @@ https://github.com/user-attachments/assets/1274a455-a80a-4476-8ac5-c562d06b8332
 ## Desenvolvimento
 
 Código escrito em Python 3 utilizando Micropython EV3 e a biblioteca do EV3.
+
+<img src="assets/foto_grupo.jpg" width=60%>

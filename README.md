@@ -5,9 +5,9 @@ Projeto da Faculdade Impacta, disciplina de Robótica lecionada pelo professor G
 Adriano Paula de Araujo - 2200305<br>
 Lucas Eduardo Salles de Souza - 2100844<br>
 Raphael Alario - 2202061<br>
-Tiago Pinheiro Bezerra<br>
+Tiago Pinheiro Bezerra - 2200533<br>
 Victor Santini de Brito - 2200410<br>
-Welvis Souza de Assis<br>
+Welvis Souza de Assis - 2101828<br>
 Willian Lyu Tomimatsu - 2200019<br>
 
 ## Catavento

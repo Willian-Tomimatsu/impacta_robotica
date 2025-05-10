@@ -28,4 +28,4 @@ https://github.com/user-attachments/assets/1274a455-a80a-4476-8ac5-c562d06b8332
 
 Código escrito em Python 3 utilizando Micropython EV3 e a biblioteca do EV3.
 
-<img src="assets/foto_final.jpg" width=100%>
+<img src="assets/foto_final.jpg" width=90%>
